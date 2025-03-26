@@ -1,0 +1,5 @@
+Castravete|RosiaMontana|109
+Carnaciorul|RosiaMontana|0
+Test|123|12
+test1232|123|13
+Adrian|123|23
